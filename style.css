@@ -97,13 +97,17 @@ header .wrapper nav ul{
     gap: 24px;
 }
 
+.about .wrapper .left ul{
+    list-style: none;
+}
+
 .about .wrapper .right{
     text-align: center;
     border: 1px dotted #f0f0f0;
 }
 
 .about .wrapper .right .card{
-    width: 100%;
+    
     padding: 1rem 1rem;
 }
 
